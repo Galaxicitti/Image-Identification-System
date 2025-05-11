@@ -23,7 +23,7 @@ Clone the repository and install the required packages:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/image-identification-system.git
+git clone https://github.com/Galaxicitti/image-identification-system.git
 cd image-identification-system
 
 # Create a virtual environment (recommended)
