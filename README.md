@@ -80,4 +80,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact 📬
 
-Feel free to reach out via [LinkedIn](linkedin.com/in/galaxy-rawat) or [GitHub](https://github.com/Galaxicitti).
+Feel free to reach out via [LinkedIn](linkedin.com/in/galaxy-rawat/) or [GitHub](https://github.com/Galaxicitti).
